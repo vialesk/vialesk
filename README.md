@@ -1,4 +1,3 @@
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 <p align="center"> <h1 align="center"> Hi, I am Kervin Viales <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -11,12 +10,12 @@
 * 👩🏻‍🎓 Studied Electrical Engineering at the UCR, Costa Rica.<br/>
 * 💭 Currently learning about data analytics and AI. 
 ***
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub stats from https://github.com/vialesk/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=vialesk&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ***
 # 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+<!-- Badges from https://github.com/vialesk/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
